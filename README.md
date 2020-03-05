@@ -1,2 +1,2 @@
 # QuizTxt
-Simple quiz based on selected text data.
+Simple quiz based on user-provided text data.
