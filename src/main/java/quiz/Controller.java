@@ -1,4 +1,4 @@
-package sample;
+package quiz;
 
 public class Controller {
 }
